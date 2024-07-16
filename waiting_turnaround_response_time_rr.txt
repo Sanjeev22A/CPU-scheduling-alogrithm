@@ -1,0 +1,905 @@
+Average Waiting Time: 708.61
+Average Turnaround Time: 720.37
+Average Response Time: 66.43
+
+Process Details:
+Process 1:
+Arrival Time: 87
+Burst Time: 7
+Completion Time: 707
+Turnaround Time: 620
+Waiting Time: 613
+First Scheduling Time: 250
+Response Time: 163
+
+Process 2:
+Arrival Time: 11
+Burst Time: 3
+Completion Time: 77
+Turnaround Time: 66
+Waiting Time: 63
+First Scheduling Time: 17
+Response Time: 6
+
+Process 3:
+Arrival Time: 88
+Burst Time: 17
+Completion Time: 1137
+Turnaround Time: 1049
+Waiting Time: 1032
+First Scheduling Time: 252
+Response Time: 164
+
+Process 4:
+Arrival Time: 31
+Burst Time: 2
+Completion Time: 79
+Turnaround Time: 48
+Waiting Time: 46
+First Scheduling Time: 77
+Response Time: 46
+
+Process 5:
+Arrival Time: 68
+Burst Time: 15
+Completion Time: 1020
+Turnaround Time: 952
+Waiting Time: 937
+First Scheduling Time: 79
+Response Time: 11
+
+Process 6:
+Arrival Time: 88
+Burst Time: 3
+Completion Time: 424
+Turnaround Time: 336
+Waiting Time: 333
+First Scheduling Time: 256
+Response Time: 168
+
+Process 7:
+Arrival Time: 54
+Burst Time: 21
+Completion Time: 1168
+Turnaround Time: 1114
+Waiting Time: 1093
+First Scheduling Time: 81
+Response Time: 27
+
+Process 8:
+Arrival Time: 31
+Burst Time: 2
+Completion Time: 85
+Turnaround Time: 54
+Waiting Time: 52
+First Scheduling Time: 83
+Response Time: 52
+
+Process 9:
+Arrival Time: 54
+Burst Time: 9
+Completion Time: 714
+Turnaround Time: 660
+Waiting Time: 651
+First Scheduling Time: 85
+Response Time: 31
+
+Process 10:
+Arrival Time: 5
+Burst Time: 21
+Completion Time: 1140
+Turnaround Time: 1135
+Waiting Time: 1114
+First Scheduling Time: 19
+Response Time: 14
+
+Process 11:
+Arrival Time: 100
+Burst Time: 20
+Completion Time: 1170
+Turnaround Time: 1070
+Waiting Time: 1050
+First Scheduling Time: 264
+Response Time: 164
+
+Process 12:
+Arrival Time: 97
+Burst Time: 20
+Completion Time: 1172
+Turnaround Time: 1075
+Waiting Time: 1055
+First Scheduling Time: 266
+Response Time: 169
+
+Process 13:
+Arrival Time: 2
+Burst Time: 18
+Completion Time: 946
+Turnaround Time: 944
+Waiting Time: 926
+First Scheduling Time: 4
+Response Time: 2
+
+Process 14:
+Arrival Time: 47
+Burst Time: 17
+Completion Time: 1097
+Turnaround Time: 1050
+Waiting Time: 1033
+First Scheduling Time: 91
+Response Time: 44
+
+Process 15:
+Arrival Time: 32
+Burst Time: 3
+Completion Time: 273
+Turnaround Time: 241
+Waiting Time: 238
+First Scheduling Time: 93
+Response Time: 61
+
+Process 16:
+Arrival Time: 59
+Burst Time: 1
+Completion Time: 96
+Turnaround Time: 37
+Waiting Time: 36
+First Scheduling Time: 95
+Response Time: 36
+
+Process 17:
+Arrival Time: 79
+Burst Time: 2
+Completion Time: 98
+Turnaround Time: 19
+Waiting Time: 17
+First Scheduling Time: 96
+Response Time: 17
+
+Process 18:
+Arrival Time: 99
+Burst Time: 19
+Completion Time: 1173
+Turnaround Time: 1074
+Waiting Time: 1055
+First Scheduling Time: 273
+Response Time: 174
+
+Process 19:
+Arrival Time: 89
+Burst Time: 5
+Completion Time: 441
+Turnaround Time: 352
+Waiting Time: 347
+First Scheduling Time: 98
+Response Time: 9
+
+Process 20:
+Arrival Time: 12
+Burst Time: 8
+Completion Time: 443
+Turnaround Time: 431
+Waiting Time: 423
+First Scheduling Time: 23
+Response Time: 11
+
+Process 21:
+Arrival Time: 69
+Burst Time: 9
+Completion Time: 727
+Turnaround Time: 658
+Waiting Time: 649
+First Scheduling Time: 102
+Response Time: 33
+
+Process 22:
+Arrival Time: 65
+Burst Time: 3
+Completion Time: 282
+Turnaround Time: 217
+Waiting Time: 214
+First Scheduling Time: 104
+Response Time: 39
+
+Process 23:
+Arrival Time: 78
+Burst Time: 10
+Completion Time: 729
+Turnaround Time: 651
+Waiting Time: 641
+First Scheduling Time: 106
+Response Time: 28
+
+Process 24:
+Arrival Time: 76
+Burst Time: 15
+Completion Time: 1033
+Turnaround Time: 957
+Waiting Time: 942
+First Scheduling Time: 108
+Response Time: 32
+
+Process 25:
+Arrival Time: 27
+Burst Time: 15
+Completion Time: 1034
+Turnaround Time: 1007
+Waiting Time: 992
+First Scheduling Time: 110
+Response Time: 83
+
+Process 26:
+Arrival Time: 9
+Burst Time: 17
+Completion Time: 1035
+Turnaround Time: 1026
+Waiting Time: 1009
+First Scheduling Time: 25
+Response Time: 16
+
+Process 27:
+Arrival Time: 35
+Burst Time: 17
+Completion Time: 1100
+Turnaround Time: 1065
+Waiting Time: 1048
+First Scheduling Time: 114
+Response Time: 79
+
+Process 28:
+Arrival Time: 19
+Burst Time: 18
+Completion Time: 1039
+Turnaround Time: 1020
+Waiting Time: 1002
+First Scheduling Time: 27
+Response Time: 8
+
+Process 29:
+Arrival Time: 58
+Burst Time: 19
+Completion Time: 1147
+Turnaround Time: 1089
+Waiting Time: 1070
+First Scheduling Time: 118
+Response Time: 60
+
+Process 30:
+Arrival Time: 59
+Burst Time: 21
+Completion Time: 1174
+Turnaround Time: 1115
+Waiting Time: 1094
+First Scheduling Time: 120
+Response Time: 61
+
+Process 31:
+Arrival Time: 74
+Burst Time: 20
+Completion Time: 1151
+Turnaround Time: 1077
+Waiting Time: 1057
+First Scheduling Time: 122
+Response Time: 48
+
+Process 32:
+Arrival Time: 74
+Burst Time: 7
+Completion Time: 614
+Turnaround Time: 540
+Waiting Time: 533
+First Scheduling Time: 124
+Response Time: 50
+
+Process 33:
+Arrival Time: 20
+Burst Time: 1
+Completion Time: 30
+Turnaround Time: 10
+Waiting Time: 9
+First Scheduling Time: 29
+Response Time: 9
+
+Process 34:
+Arrival Time: 86
+Burst Time: 17
+Completion Time: 1107
+Turnaround Time: 1021
+Waiting Time: 1004
+First Scheduling Time: 126
+Response Time: 40
+
+Process 35:
+Arrival Time: 67
+Burst Time: 21
+Completion Time: 1175
+Turnaround Time: 1108
+Waiting Time: 1087
+First Scheduling Time: 128
+Response Time: 61
+
+Process 36:
+Arrival Time: 97
+Burst Time: 20
+Completion Time: 1155
+Turnaround Time: 1058
+Waiting Time: 1038
+First Scheduling Time: 130
+Response Time: 33
+
+Process 37:
+Arrival Time: 29
+Burst Time: 11
+Completion Time: 752
+Turnaround Time: 723
+Waiting Time: 712
+First Scheduling Time: 30
+Response Time: 1
+
+Process 38:
+Arrival Time: 91
+Burst Time: 12
+Completion Time: 870
+Turnaround Time: 779
+Waiting Time: 767
+First Scheduling Time: 134
+Response Time: 43
+
+Process 39:
+Arrival Time: 22
+Burst Time: 3
+Completion Time: 137
+Turnaround Time: 115
+Waiting Time: 112
+First Scheduling Time: 32
+Response Time: 10
+
+Process 40:
+Arrival Time: 70
+Burst Time: 13
+Completion Time: 973
+Turnaround Time: 903
+Waiting Time: 890
+First Scheduling Time: 137
+Response Time: 67
+
+Process 41:
+Arrival Time: 13
+Burst Time: 16
+Completion Time: 975
+Turnaround Time: 962
+Waiting Time: 946
+First Scheduling Time: 34
+Response Time: 21
+
+Process 42:
+Arrival Time: 43
+Burst Time: 5
+Completion Time: 480
+Turnaround Time: 437
+Waiting Time: 432
+First Scheduling Time: 141
+Response Time: 98
+
+Process 43:
+Arrival Time: 84
+Burst Time: 18
+Completion Time: 1113
+Turnaround Time: 1029
+Waiting Time: 1011
+First Scheduling Time: 143
+Response Time: 59
+
+Process 44:
+Arrival Time: 52
+Burst Time: 21
+Completion Time: 1176
+Turnaround Time: 1124
+Waiting Time: 1103
+First Scheduling Time: 145
+Response Time: 93
+
+Process 45:
+Arrival Time: 95
+Burst Time: 12
+Completion Time: 880
+Turnaround Time: 785
+Waiting Time: 773
+First Scheduling Time: 147
+Response Time: 52
+
+Process 46:
+Arrival Time: 63
+Burst Time: 13
+Completion Time: 980
+Turnaround Time: 917
+Waiting Time: 904
+First Scheduling Time: 149
+Response Time: 86
+
+Process 47:
+Arrival Time: 61
+Burst Time: 18
+Completion Time: 1117
+Turnaround Time: 1056
+Waiting Time: 1038
+First Scheduling Time: 151
+Response Time: 90
+
+Process 48:
+Arrival Time: 54
+Burst Time: 11
+Completion Time: 885
+Turnaround Time: 831
+Waiting Time: 820
+First Scheduling Time: 153
+Response Time: 99
+
+Process 49:
+Arrival Time: 41
+Burst Time: 20
+Completion Time: 1159
+Turnaround Time: 1118
+Waiting Time: 1098
+First Scheduling Time: 155
+Response Time: 114
+
+Process 50:
+Arrival Time: 55
+Burst Time: 17
+Completion Time: 1120
+Turnaround Time: 1065
+Waiting Time: 1048
+First Scheduling Time: 157
+Response Time: 102
+
+Process 51:
+Arrival Time: 69
+Burst Time: 6
+Completion Time: 498
+Turnaround Time: 429
+Waiting Time: 423
+First Scheduling Time: 159
+Response Time: 90
+
+Process 52:
+Arrival Time: 77
+Burst Time: 3
+Completion Time: 337
+Turnaround Time: 260
+Waiting Time: 257
+First Scheduling Time: 161
+Response Time: 84
+
+Process 53:
+Arrival Time: 45
+Burst Time: 13
+Completion Time: 987
+Turnaround Time: 942
+Waiting Time: 929
+First Scheduling Time: 163
+Response Time: 118
+
+Process 54:
+Arrival Time: 37
+Burst Time: 11
+Completion Time: 892
+Turnaround Time: 855
+Waiting Time: 844
+First Scheduling Time: 165
+Response Time: 128
+
+Process 55:
+Arrival Time: 66
+Burst Time: 19
+Completion Time: 1160
+Turnaround Time: 1094
+Waiting Time: 1075
+First Scheduling Time: 167
+Response Time: 101
+
+Process 56:
+Arrival Time: 83
+Burst Time: 7
+Completion Time: 651
+Turnaround Time: 568
+Waiting Time: 561
+First Scheduling Time: 169
+Response Time: 86
+
+Process 57:
+Arrival Time: 52
+Burst Time: 5
+Completion Time: 507
+Turnaround Time: 455
+Waiting Time: 450
+First Scheduling Time: 171
+Response Time: 119
+
+Process 58:
+Arrival Time: 94
+Burst Time: 20
+Completion Time: 1162
+Turnaround Time: 1068
+Waiting Time: 1048
+First Scheduling Time: 173
+Response Time: 79
+
+Process 59:
+Arrival Time: 88
+Burst Time: 8
+Completion Time: 655
+Turnaround Time: 567
+Waiting Time: 559
+First Scheduling Time: 175
+Response Time: 87
+
+Process 60:
+Arrival Time: 9
+Burst Time: 14
+Completion Time: 898
+Turnaround Time: 889
+Waiting Time: 875
+First Scheduling Time: 36
+Response Time: 27
+
+Process 61:
+Arrival Time: 89
+Burst Time: 16
+Completion Time: 1067
+Turnaround Time: 978
+Waiting Time: 962
+First Scheduling Time: 179
+Response Time: 90
+
+Process 62:
+Arrival Time: 49
+Burst Time: 9
+Completion Time: 787
+Turnaround Time: 738
+Waiting Time: 729
+First Scheduling Time: 181
+Response Time: 132
+
+Process 63:
+Arrival Time: 7
+Burst Time: 21
+Completion Time: 1163
+Turnaround Time: 1156
+Waiting Time: 1135
+First Scheduling Time: 38
+Response Time: 31
+
+Process 64:
+Arrival Time: 96
+Burst Time: 3
+Completion Time: 360
+Turnaround Time: 264
+Waiting Time: 261
+First Scheduling Time: 185
+Response Time: 89
+
+Process 65:
+Arrival Time: 74
+Burst Time: 20
+Completion Time: 1165
+Turnaround Time: 1091
+Waiting Time: 1071
+First Scheduling Time: 187
+Response Time: 113
+
+Process 66:
+Arrival Time: 90
+Burst Time: 14
+Completion Time: 999
+Turnaround Time: 909
+Waiting Time: 895
+First Scheduling Time: 189
+Response Time: 99
+
+Process 67:
+Arrival Time: 33
+Burst Time: 10
+Completion Time: 669
+Turnaround Time: 636
+Waiting Time: 626
+First Scheduling Time: 40
+Response Time: 7
+
+Process 68:
+Arrival Time: 73
+Burst Time: 16
+Completion Time: 1073
+Turnaround Time: 1000
+Waiting Time: 984
+First Scheduling Time: 193
+Response Time: 120
+
+Process 69:
+Arrival Time: 65
+Burst Time: 6
+Completion Time: 529
+Turnaround Time: 464
+Waiting Time: 458
+First Scheduling Time: 195
+Response Time: 130
+
+Process 70:
+Arrival Time: 11
+Burst Time: 14
+Completion Time: 910
+Turnaround Time: 899
+Waiting Time: 885
+First Scheduling Time: 42
+Response Time: 31
+
+Process 71:
+Arrival Time: 82
+Burst Time: 3
+Completion Time: 373
+Turnaround Time: 291
+Waiting Time: 288
+First Scheduling Time: 199
+Response Time: 117
+
+Process 72:
+Arrival Time: 10
+Burst Time: 12
+Completion Time: 799
+Turnaround Time: 789
+Waiting Time: 777
+First Scheduling Time: 44
+Response Time: 34
+
+Process 73:
+Arrival Time: 86
+Burst Time: 5
+Completion Time: 534
+Turnaround Time: 448
+Waiting Time: 443
+First Scheduling Time: 203
+Response Time: 117
+
+Process 74:
+Arrival Time: 1
+Burst Time: 7
+Completion Time: 378
+Turnaround Time: 377
+Waiting Time: 370
+First Scheduling Time: 6
+Response Time: 5
+
+Process 75:
+Arrival Time: 82
+Burst Time: 9
+Completion Time: 800
+Turnaround Time: 718
+Waiting Time: 709
+First Scheduling Time: 207
+Response Time: 125
+
+Process 76:
+Arrival Time: 53
+Burst Time: 11
+Completion Time: 911
+Turnaround Time: 858
+Waiting Time: 847
+First Scheduling Time: 209
+Response Time: 156
+
+Process 77:
+Arrival Time: 14
+Burst Time: 21
+Completion Time: 1166
+Turnaround Time: 1152
+Waiting Time: 1131
+First Scheduling Time: 48
+Response Time: 34
+
+Process 78:
+Arrival Time: 18
+Burst Time: 9
+Completion Time: 682
+Turnaround Time: 664
+Waiting Time: 655
+First Scheduling Time: 50
+Response Time: 32
+
+Process 79:
+Arrival Time: 71
+Burst Time: 12
+Completion Time: 915
+Turnaround Time: 844
+Waiting Time: 832
+First Scheduling Time: 215
+Response Time: 144
+
+Process 80:
+Arrival Time: 3
+Burst Time: 14
+Completion Time: 808
+Turnaround Time: 805
+Waiting Time: 791
+First Scheduling Time: 8
+Response Time: 5
+
+Process 81:
+Arrival Time: 96
+Burst Time: 6
+Completion Time: 548
+Turnaround Time: 452
+Waiting Time: 446
+First Scheduling Time: 219
+Response Time: 123
+
+Process 82:
+Arrival Time: 53
+Burst Time: 13
+Completion Time: 916
+Turnaround Time: 863
+Waiting Time: 850
+First Scheduling Time: 54
+Response Time: 1
+
+Process 83:
+Arrival Time: 91
+Burst Time: 18
+Completion Time: 1132
+Turnaround Time: 1041
+Waiting Time: 1023
+First Scheduling Time: 223
+Response Time: 132
+
+Process 84:
+Arrival Time: 73
+Burst Time: 15
+Completion Time: 1078
+Turnaround Time: 1005
+Waiting Time: 990
+First Scheduling Time: 225
+Response Time: 152
+
+Process 85:
+Arrival Time: 0
+Burst Time: 11
+Completion Time: 555
+Turnaround Time: 555
+Waiting Time: 544
+First Scheduling Time: 0
+Response Time: 0
+
+Process 86:
+Arrival Time: 52
+Burst Time: 3
+Completion Time: 230
+Turnaround Time: 178
+Waiting Time: 175
+First Scheduling Time: 58
+Response Time: 6
+
+Process 87:
+Arrival Time: 9
+Burst Time: 1
+Completion Time: 13
+Turnaround Time: 4
+Waiting Time: 3
+First Scheduling Time: 12
+Response Time: 3
+
+Process 88:
+Arrival Time: 48
+Burst Time: 18
+Completion Time: 1080
+Turnaround Time: 1032
+Waiting Time: 1014
+First Scheduling Time: 60
+Response Time: 12
+
+Process 89:
+Arrival Time: 99
+Burst Time: 3
+Completion Time: 403
+Turnaround Time: 304
+Waiting Time: 301
+First Scheduling Time: 232
+Response Time: 133
+
+Process 90:
+Arrival Time: 100
+Burst Time: 18
+Completion Time: 1134
+Turnaround Time: 1034
+Waiting Time: 1016
+First Scheduling Time: 234
+Response Time: 134
+
+Process 91:
+Arrival Time: 25
+Burst Time: 21
+Completion Time: 1167
+Turnaround Time: 1142
+Waiting Time: 1121
+First Scheduling Time: 62
+Response Time: 37
+
+Process 92:
+Arrival Time: 49
+Burst Time: 8
+Completion Time: 563
+Turnaround Time: 514
+Waiting Time: 506
+First Scheduling Time: 64
+Response Time: 15
+
+Process 93:
+Arrival Time: 55
+Burst Time: 2
+Completion Time: 68
+Turnaround Time: 13
+Waiting Time: 11
+First Scheduling Time: 66
+Response Time: 11
+
+Process 94:
+Arrival Time: 61
+Burst Time: 16
+Completion Time: 1015
+Turnaround Time: 954
+Waiting Time: 938
+First Scheduling Time: 68
+Response Time: 7
+
+Process 95:
+Arrival Time: 12
+Burst Time: 3
+Completion Time: 71
+Turnaround Time: 59
+Waiting Time: 56
+First Scheduling Time: 13
+Response Time: 1
+
+Process 96:
+Arrival Time: 36
+Burst Time: 1
+Completion Time: 72
+Turnaround Time: 36
+Waiting Time: 35
+First Scheduling Time: 71
+Response Time: 35
+
+Process 97:
+Arrival Time: 89
+Burst Time: 10
+Completion Time: 824
+Turnaround Time: 735
+Waiting Time: 725
+First Scheduling Time: 242
+Response Time: 153
+
+Process 98:
+Arrival Time: 1
+Burst Time: 18
+Completion Time: 930
+Turnaround Time: 929
+Waiting Time: 911
+First Scheduling Time: 2
+Response Time: 1
+
+Process 99:
+Arrival Time: 81
+Burst Time: 16
+Completion Time: 1086
+Turnaround Time: 1005
+Waiting Time: 989
+First Scheduling Time: 246
+Response Time: 165
+
+Process 100:
+Arrival Time: 66
+Burst Time: 4
+Completion Time: 250
+Turnaround Time: 184
+Waiting Time: 180
+First Scheduling Time: 74
+Response Time: 8
+
